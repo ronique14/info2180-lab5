@@ -1,1 +1,37 @@
 /* Add your own styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",Arial, "Noto Sans", sans-serif;
+    font-size: 21px;
+    background-color: #cac8ce;
+}
+
+header {
+    background-color: mediumpurple;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size:36px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main {
+    padding: 15px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+button {
+    background-color: deepskyblue;
+    color: #ffffffff;
+    border-radius: 5px;
+}
+
+    button:hover {
+        background: #0b7dda;
+    }
